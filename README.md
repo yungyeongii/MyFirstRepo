@@ -2,4 +2,4 @@
 
 
 
-[rasberrypi](rpi.md)
+[raspberrypi](rpi.md)
